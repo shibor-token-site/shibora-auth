@@ -1,7 +1,7 @@
 # shibora-auth
 // .env.local (ไม่ควรเผยแพร่แบบนี้ในโปรเจกต์จริง)
-TWITTER_CLIENT_ID=your-client-id
-TWITTER_CLIENT_SECRET=your-client-secret
+TWITTER_CLIENT_ID=your-client-id TXY4UVVhLXNZb1ZNOHYwNWtMSTg6MTpjaQ
+TWITTER_CLIENT_SECRET=your-client-secret iUOV30QHosLATLdt3R7AmK_WDOb2QXd_4nImPnaItQVzHVxL5P
 TWITTER_REDIRECT_URI=https://your-vercel-url.vercel.app/api/auth/callback
 
 // package.json
